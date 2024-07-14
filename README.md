@@ -1,2 +1,2 @@
-# comp-vision
-cv stuff
+# Model Implementation
+Implementation of basic model architectures!
