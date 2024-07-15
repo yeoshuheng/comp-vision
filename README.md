@@ -10,6 +10,8 @@ NLP:
 
 Diffusion / Image Generation:
 - Denoising Diffusion Probabilistic Models
+- Denoising Implicit Probabilistic Models
+- Score Matching Diffusion Models
 
 ### Credits
 ```python
@@ -62,6 +64,15 @@ Diffusion / Image Generation:
       archivePrefix={arXiv},
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2010.02502}, 
+}
+@misc{song2021scorebasedgenerativemodelingstochastic,
+      title={Score-Based Generative Modeling through Stochastic Differential Equations}, 
+      author={Yang Song and Jascha Sohl-Dickstein and Diederik P. Kingma and Abhishek Kumar and Stefano Ermon and Ben Poole},
+      year={2021},
+      eprint={2011.13456},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2011.13456}, 
 }
 """
 ```
